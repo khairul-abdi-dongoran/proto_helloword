@@ -1,4 +1,4 @@
-module proto_helloworld
+module github.com/khairul-abdi-dongoran/proto_helloword
 
 go 1.20
 
